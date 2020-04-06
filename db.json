@@ -1,0 +1,11 @@
+{
+  " postagens " : [
+    {
+      " id " : 1 ,
+      " title " : " olá "
+    }
+  ],
+  " perfil " : {
+    " name " : " typicode "
+  }
+}
